@@ -117,3 +117,22 @@ width: 40px;
 
   }
 }
+
+
+
+@media (min-width:1200px){
+
+  #header-nav{
+     
+     padding-bottom: 20px;
+
+
+}
+}
+@media(min-width: 992) and (max-width: 1199){
+
+#header-nav{
+     
+     padding-bottom: 30px;
+}
+}
